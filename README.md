@@ -1,6 +1,6 @@
 # Random Cube World
 ## Describtion
-This is application generate multiple cube in an artistic way
+This application generate multiple cube in an artistic way
 ## Installation
 ```
 git clone https://github.com/Slownite/Random_Cube_World.git
